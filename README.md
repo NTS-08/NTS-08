@@ -1,12 +1,20 @@
-<h1 align="center">Hi there, I'm Nithish P</h1>
-<h3 align="center">Full-Stack Developer | Python Specialist | Network Engineer</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=Nithish%20P&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Python%20Specialist%20%7C%20Network%20Engineer&descAlignY=58&descSize=18" width="100%"/>
+
 <h4 align="center">CEO & Founder @ Semozhix Technologies LLP</h4>
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8E2DE2&center=true&vCenter=true&width=600&lines=Building+secure+%26+scalable+web+apps;Python+%7C+Full-Stack+%7C+Networking;Turning+ideas+into+impactful+products;CEO+%40+Semozhix+Technologies+LLP" alt="Typing SVG"/></a>
+</p>
 
 <p align="center">
   <a href="mailto:nithish112813@gmail.com"><img src="https://img.shields.io/badge/Email-nithish112813%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/p-nithish-prabhu-a14824335/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://instagram.com/nts_framez"><img src="https://img.shields.io/badge/Instagram-%40nts__framez-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Location-India-informational?style=flat&logo=googlemaps&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NTS-08&label=Profile%20Views&color=8E2DE2&style=flat"/>
 </p>
 
 ---
@@ -100,6 +108,16 @@ I'm a dedicated **Full-Stack Developer** specializing in **Python** and backend 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NTS-08&theme=radical" alt="GitHub Streak" height="165"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NTS-08&theme=redical&bg_color=0d1117&color=8E2DE2&line=4A00E0&point=ffffff" width="95%" alt="Contribution Graph"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NTS-08/NTS-08/output/github-contribution-grid-snake.svg" width="95%" alt="Contribution Snake animation"/>
+</p>
+
+> Snake animation auto-generates via a GitHub Action — see setup note at the bottom of this file.
+
 ---
 
 ### <img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/link.svg" width="22" height="22" style="vertical-align:middle"/> Connect with Me
@@ -111,3 +129,18 @@ I'm a dedicated **Full-Stack Developer** specializing in **Python** and backend 
 </p>
 
 <p align="center"><i>Thanks for visiting my profile — let's build something great together.</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer" width="100%"/>
+
+<details>
+<summary><b>How the snake contribution animation works</b></summary>
+<br>
+
+The snake graphic above is generated automatically by <b>Platane/snk</b>, a free GitHub Action. To activate it on your own profile repo (<code>NTS-08/NTS-08</code>):
+
+1. Create <code>.github/workflows/snake.yml</code> in the repo with the official action (search "Platane snk GitHub Action" for the latest YAML).
+2. Push to <code>main</code> — the action runs on a schedule and commits an SVG to an <code>output</code> branch.
+3. Point the <code>&lt;img&gt;</code> src above to <code>raw.githubusercontent.com/NTS-08/NTS-08/output/github-contribution-grid-snake.svg</code> (already set).
+
+Once the workflow runs once, the snake will animate through your real contribution graph.
+</details>
